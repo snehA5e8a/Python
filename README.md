@@ -1,6 +1,8 @@
 This repository contains Python exercises I created while learning the basics of the language.
 
 Contents<br> 
+
+
 Basics<br>
  
 o Variables, Numbers, Strings <br>
